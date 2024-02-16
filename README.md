@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeanhusNiyomahoro
-- 👀 I’m interested in automated fare collection systems.
+- 👀 I’m interested in payment platforms.
 - 🌱 I’m currently learning project management.
-- 💞️ I’m looking to collaborate on automated fare collection.
+- 💞️ I’m looking to collaborate on payment projects.
 - 📫 How to reach me through jeanhus33@gmail.com or +254702199729.
 
 <!---
